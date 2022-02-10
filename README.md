@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Martín</h1>
 <h3 align="center">A passionate Full Stack Web developer from Spain</h3>
 
-- 🔭 I’m currently working on [Hunttour and 2GoTours](www.2gotours.net)
+- 🔭 I’m currently working on [2GoTours](www.2gotours.net) and [Troop](https://www.trooptravel.com)
 
-- 🌱 I’m currently learning **VueJs and NuxtJs**
+- 🌱 I’m currently learning **Vue3 along with vite and TS**
 
 - 📫 How to reach me **jorge.martinoliver@gmail.com**
 
