@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Martín</h1>
 <h3 align="center">A passionate Full Stack Web developer from Spain</h3>
 
-- 🔭 I’m currently working on [Troop](https://www.trooptravel.com)
+- 🔭 I'm currently working on [Troop](https://www.trooptravel.com)
 
-- 🌱 I’m currently learning **Vue3 along with vite and TS**
+- 💻 I'm a Full Stack Developer with more experience in the Backend with the NodeJs ecosystem
+
+- 🌱 I'm currently working on the BE but I love doing personal projects using **Vue3 and Svelte** to keep learning new things and to keep working with the FE
 
 - 📫 How to reach me **jorge.martinoliver@gmail.com**
 
